@@ -1,6 +1,6 @@
 # 文件说明
 
-recovery_flash_tool.zip位twrp刷入工具，默认刷入我移植的twrp3.0
+recovery_flash_tool.zip为twrp刷入工具，默认刷入我移植的twrp3.0
 
 本文件夹下还有另外三个文件，分别是官方原厂rec，我移植的twrp3.0，网友移植的twrp2.9
 
