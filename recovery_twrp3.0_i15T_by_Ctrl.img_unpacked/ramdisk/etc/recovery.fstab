@@ -1,0 +1,10 @@
+/boot	emmc	/dev/block/by-name/android_boot
+/cache	auto	/dev/block/by-name/android_cache
+/factory	ext4	/dev/block/by-name/android_factory	flags=display="Factory"
+/config	ext4	/dev/block/by-name/android_config	flags=backup=1
+/data	auto	/dev/block/by-name/android_data	flags=encryptable=/factory/userdata_footer
+/misc	emmc	/dev/block/by-name/android_misc	flags=display="Misc";backup=1
+/recovery	emmc	/dev/block/by-name/android_recovery flags=backup=1
+/system	ext4	/dev/block/by-name/android_system
+/usb_otg auto /dev/block/sda1 /dev/block/sda flags=display="USB-OTG";storage;removable
+/external_sd	vfat	/dev/block/mmcblk1p1	flags=display="MicroSD";storage;removable
