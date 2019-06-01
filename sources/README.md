@@ -16,8 +16,7 @@ flashrecovery.bat用于将recovery刷入平板
 
 其余操作请自行百度
 
-这是我个人完成的移植工作，如果喜欢我的工作，欢迎捐助。支付宝：windxixi@gmail.com
-另外，本rom针对iwork10。其它类似的机器，如obook10 x98 plus也许也可以修改使用。其它z8300的机器，如果免费提供机器我也可以移植。
+另外，本rom针对iwork10。其它类似的机器，如obook10 x98 plus也许也可以修改使用
 
 默认是刷入@Ctrl制作的twrp3.0(recovery.img)，如果想刷入twrp2.9的重命名recovery2.9.img替换recovery.img即可
 
