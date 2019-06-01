@@ -1,4 +1,4 @@
-#文件说明
+# 文件说明
 
 recovery_flash_tool.zip位twrp刷入工具，默认刷入我移植的twrp3.0
 
