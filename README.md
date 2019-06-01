@@ -3,7 +3,7 @@ TWRP recovery 3.0 for Cube iwork10(i15T)
 
 此为本人为酷比魔方iwrok10旗舰版（i15T）双系统平板的安卓系统移植的TWRP3.0 recovery
 
-建议在remix os下使用此recovery，官方系统下刷入无法读取文件。
+建议在remix os2.0或MIUI下使用此recovery，官方原生系统下刷入无法读取文件。
 
 刷入工具及文件打包下载https://github.com/Ctrl-Ling/Cube-iwork10-TWRP/blob/master/sources/recovery_flash_tools.zip
 
