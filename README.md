@@ -9,5 +9,4 @@ TWRP recovery 3.0 for Cube iwork10(i15T)
 
 twrp的img文件下载详见release或sources文件夹
 
-more helps click：http://tieba.baidu.com/p/5985249254
 
